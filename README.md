@@ -1,6 +1,6 @@
-<<p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/sponsor-banner.png?raw=true" alt="Sponsor Banner"/>
-</p>!-- Banner -->
+
+  
+
 <p align="center">
   <img src="banner.png" alt="GitHub Banner" style="width:100%; border-radius: 20px;" />
 </p>
